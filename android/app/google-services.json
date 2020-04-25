@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636316361227",
+    "firebase_url": "https://khatam-count.firebaseio.com",
+    "project_id": "khatam-count",
+    "storage_bucket": "khatam-count.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636316361227:android:d9add7be8898d972e31d0e",
+        "android_client_info": {
+          "package_name": "com.banabda.khatamapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636316361227-bn88ki06sb29v9nevsfp8lcvtoprq8lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banabda.khatamapps",
+            "certificate_hash": "e5c86243a7f79bb9078e0f965c105b1ada6f7986"
+          }
+        },
+        {
+          "client_id": "636316361227-jvfpv3mqjrubh5c0feipoo2su6ku91b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9iTp4B8yAEdizzKC6FdbP6yTewHonvbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636316361227-jvfpv3mqjrubh5c0feipoo2su6ku91b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
