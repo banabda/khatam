@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "636316361227-fib4g4c8pgp18d3pnh0ari4mmku36eoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banabda.khatamapps",
+            "certificate_hash": "cad01b55444445b4cef1e2959a750fc8d4c4b7cc"
+          }
+        },
+        {
           "client_id": "636316361227-bn88ki06sb29v9nevsfp8lcvtoprq8lg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
